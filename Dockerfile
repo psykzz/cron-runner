@@ -1,2 +1,2 @@
 FROM python:3.11-alpine
-RUN pip installl aiohttp
+RUN pip install aiohttp
